@@ -1,0 +1,13 @@
+p {
+    color: blue;
+    border: 2px solid black;
+    background-color: gainsboro;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+#size {
+    font-size: 2em;
+}
